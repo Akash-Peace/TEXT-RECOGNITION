@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/Akash-Peace/TEXT-RECOGNITION/tree/main/Dataset/tr_logo.png" alt="Logo" width="150" height="150">
+  <img src="https://github.com/Akash-Peace/TEXT-RECOGNITION/blob/main/Dataset/tr_logo.png" alt="Logo" width="150" height="150">
   <h3 align="center">TEXT RECOGNIZER</h3>
   <p align="center">
     <a href="https://en.wikipedia.org/wiki/Optical_character_recognition"><strong>Optical Character Recognition System</strong></a>
